@@ -1,5 +1,5 @@
 # JS-Prac23-WhatTimeIsIt
-<br>
+
 ### Mission: 
 <p> Create a digital watch. Retro-style. 
 <br>
