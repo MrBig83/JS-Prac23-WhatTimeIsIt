@@ -11,17 +11,19 @@ div{
     font-family: 'Cute Font', cursive;
     font-size: 10rem;
     text-shadow: 0px 0px 30px red;
+      
 }
 
 .p1{
     width: 320px;   
+    
 }
 
 p{
     position: relative;
     top: 50px;
     font-size: 5rem;
-    animation: pulse 1s infinite;    
+    animation: pulse 1s infinite;     
 }
 
 @keyframes pulse {
